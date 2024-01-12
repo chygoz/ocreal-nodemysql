@@ -1,0 +1,2 @@
+# medical-njs
+node mysql
